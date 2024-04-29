@@ -1,10 +1,11 @@
 # How to test
 
 ## In Docker
-`
+```
 docker-compose build
 docker-compose up
-`
+```
+
 If actually interested in output files, make sure to set test_files as a bindmount
 
 ## Locally
